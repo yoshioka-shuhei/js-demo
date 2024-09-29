@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="5fa589c947705210f84c4db3416d4344" extends="task" label="Jump Demo" max_length="40" name="x_1520989_jump_dem_jump_demo" type="collection">
+        <element default="javascript:gs.getUserID()" dynamic_default_value="90d1921e5f510100a9ad2572f2b477fe" label="応募者" max_length="32" name="jump_applicant" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element label="Evaluation Management Team" max_length="32" name="evaluation_management_team" reference="sys_user_group" type="reference"/>
+        <element choice="1" default="1" label="Stage(ch)" max_length="40" name="jump_stage_ch" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="承認待01" language="ja" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="Waiting for app03" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="承認待02" language="ja" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="作成中" language="ja" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="Waiting for app01" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="承認待03" language="ja" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="Waiting for app02" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="Create" sequence="1" value="1"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="4000" name="jump_description" type="string"/>
+        <element label="Assessor" max_length="32" name="assessor" reference="sys_user" type="reference"/>
+        <element default="1" label="Stage(wf)" max_length="80" name="jump_stage_wf" read_only="true" type="workflow"/>
+        <element label=" Title" max_length="30" name="jump_title" type="string"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="New Price" max_length="20" name="u_price_5" type="price"/>
+    </element>
+</database>

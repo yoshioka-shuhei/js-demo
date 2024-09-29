@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <click_target/>
+        <details/>
+        <details_link_text/>
+        <details_page/>
+        <details_url/>
+        <dismiss_options>dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="Normal">704dedd6e7d4030075c2a117c2f6a91b</display_style>
+        <from>2024-09-23 09:49:14</from>
+        <glyph>empty</glyph>
+        <glyph_alt_text/>
+        <name>TEST</name>
+        <public>true</public>
+        <roles/>
+        <show_for_unauthenticated_users_only>false</show_for_unauthenticated_users_only>
+        <summary>ああああああああｓｓｓｓｓｓｓｓｓｓｓｓｓｓｓ</summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-23 09:50:56</sys_created_on>
+        <sys_id>605a1bbd47fc5610f84c4db3416d437b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEST</sys_name>
+        <sys_package display_value="jump_demo" source="x_1520989_jump_dem">b48105cd47305210f84c4db3416d434f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jump_demo">b48105cd47305210f84c4db3416d434f</sys_scope>
+        <sys_update_name>announcement_605a1bbd47fc5610f84c4db3416d437b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-23 09:50:56</sys_updated_on>
+        <title>これはテストです。</title>
+        <to/>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2</type>
+    </announcement>
+    <sys_translated_text action="delete_multiple" query="documentkey=605a1bbd47fc5610f84c4db3416d437b"/>
+</record_update>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">a1de5fad47381610f84c4db3416d43d8</sp_column>
+        <sp_widget display_value="Jump Demo recoPro">ad1ed72d47381610f84c4db3416d431f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-22 15:30:33</sys_created_on>
+        <sys_id>f3de93ed47381610f84c4db3416d433f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="jump_demo" source="x_1520989_jump_dem">b48105cd47305210f84c4db3416d434f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jump_demo">b48105cd47305210f84c4db3416d434f</sys_scope>
+        <sys_update_name>sp_instance_f3de93ed47381610f84c4db3416d433f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-22 15:30:33</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f3de93ed47381610f84c4db3416d433f"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f3de93ed47381610f84c4db3416d433f</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-22 15:30:33</sys_created_on>
+        <sys_id>3fde93ed47381610f84c4db3416d433f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-22 15:30:33</sys_updated_on>
+        <tablename>sp_instance</tablename>
+        <value/>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f3de93ed47381610f84c4db3416d433f</documentkey>
+        <fieldname>title</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-22 15:30:33</sys_created_on>
+        <sys_id>b3de93ed47381610f84c4db3416d4342</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-22 15:30:33</sys_updated_on>
+        <tablename>sp_instance</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>

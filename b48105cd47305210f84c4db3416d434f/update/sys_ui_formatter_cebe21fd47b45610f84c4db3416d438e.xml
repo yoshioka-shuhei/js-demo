@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>process_flow.xml</formatter>
+        <name>Process Flow</name>
+        <seismic_component/>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-23 01:59:01</sys_created_on>
+        <sys_id>cebe21fd47b45610f84c4db3416d438e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Process Flow</sys_name>
+        <sys_package display_value="jump_demo" source="x_1520989_jump_dem">b48105cd47305210f84c4db3416d434f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jump_demo">b48105cd47305210f84c4db3416d434f</sys_scope>
+        <sys_update_name>sys_ui_formatter_cebe21fd47b45610f84c4db3416d438e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-23 01:59:01</sys_updated_on>
+        <table>x_1520989_jump_dem_jump_demo</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+</record_update>

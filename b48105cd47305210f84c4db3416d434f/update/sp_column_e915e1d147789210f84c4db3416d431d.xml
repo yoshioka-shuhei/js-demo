@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <semantic_tag/>
+        <size>12</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">6d15e1d147789210f84c4db3416d431a</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-21 11:59:58</sys_created_on>
+        <sys_id>e915e1d147789210f84c4db3416d431d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="jump_demo" source="x_1520989_jump_dem">b48105cd47305210f84c4db3416d434f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jump_demo">b48105cd47305210f84c4db3416d434f</sys_scope>
+        <sys_update_name>sp_column_e915e1d147789210f84c4db3416d431d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-21 11:59:58</sys_updated_on>
+    </sp_column>
+</record_update>

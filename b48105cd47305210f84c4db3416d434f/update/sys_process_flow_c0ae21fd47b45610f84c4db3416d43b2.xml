@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1520989_jump_dem_jump_demo">jump_stage_ch=1^EQ<item display_value="Create" endquery="false" field="jump_stage_ch" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>作成中</label>
+        <name>Create</name>
+        <order>1</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-23 01:59:01</sys_created_on>
+        <sys_id>c0ae21fd47b45610f84c4db3416d43b2</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Create</sys_name>
+        <sys_package display_value="jump_demo" source="x_1520989_jump_dem">b48105cd47305210f84c4db3416d434f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jump_demo">b48105cd47305210f84c4db3416d434f</sys_scope>
+        <sys_update_name>sys_process_flow_c0ae21fd47b45610f84c4db3416d43b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-24 05:17:08</sys_updated_on>
+        <table>x_1520989_jump_dem_jump_demo</table>
+    </sys_process_flow>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="catalog demo">740193a547f41610f84c4db3416d43be</sc_cat_item>
+        <sc_category/>
+        <short_description>申請はこちら</short_description>
+        <size>md</size>
+        <sp_column display_value="1">f750755947789210f84c4db3416d4353</sp_column>
+        <sp_page display_value="jump_demo_recopro">2ada9f6547381610f84c4db3416d4345</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-21 12:49:35</sys_created_on>
+        <sys_id>0c70f19d47389210f84c4db3416d4313</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>申請</sys_name>
+        <sys_package display_value="jump_demo" source="x_1520989_jump_dem">b48105cd47305210f84c4db3416d434f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jump_demo">b48105cd47305210f84c4db3416d434f</sys_scope>
+        <sys_update_name>sp_instance_link_0c70f19d47389210f84c4db3416d4313</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-22 15:52:20</sys_updated_on>
+        <title>申請</title>
+        <type>url</type>
+        <url>https://dev228305.service-now.com/jump?id=sc_cat_item&amp;sys_id=740193a547f41610f84c4db3416d43be</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=0c70f19d47389210f84c4db3416d4313"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>0c70f19d47389210f84c4db3416d4313</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-22 14:54:28</sys_created_on>
+        <sys_id>d396dbed47f41610f84c4db3416d4337</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-22 14:54:28</sys_updated_on>
+        <tablename>sp_instance_link</tablename>
+        <value>申請はこちら</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>0c70f19d47389210f84c4db3416d4313</documentkey>
+        <fieldname>title</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-22 14:54:28</sys_created_on>
+        <sys_id>d796dbed47f41610f84c4db3416d4339</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-22 14:54:28</sys_updated_on>
+        <tablename>sp_instance_link</tablename>
+        <value>申請</value>
+    </sys_translated_text>
+</record_update>

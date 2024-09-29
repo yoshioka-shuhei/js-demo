@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">51e63ddd47b89210f84c4db3416d43f0</sp_column>
+        <sp_widget display_value="Announcements">94c300c7e777320075c2a117c2f6a9e7</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-21 13:31:57</sys_created_on>
+        <sys_id>bc2afddd47b89210f84c4db3416d432a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>お知らせ</sys_name>
+        <sys_package display_value="jump_demo" source="x_1520989_jump_dem">b48105cd47305210f84c4db3416d434f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jump_demo">b48105cd47305210f84c4db3416d434f</sys_scope>
+        <sys_update_name>sp_instance_bc2afddd47b89210f84c4db3416d432a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-21 13:32:55</sys_updated_on>
+        <title>お知らせ</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "お知らせ",
+		"displayValue": "お知らせ"
+	},
+	"glyph": {
+		"value": "",
+		"displayValue": ""
+	},
+	"type": {
+		"value": ""
+	},
+	"paginate": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"max_records": {
+		"value": 10,
+		"displayValue": "10"
+	},
+	"view_all_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"use_display_style": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=bc2afddd47b89210f84c4db3416d432a"/>
+</record_update>
