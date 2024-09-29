@@ -2,6 +2,7 @@
     <element audit="true" db_object_id="5fa589c947705210f84c4db3416d4344" extends="task" label="Jump Demo" max_length="40" name="x_1520989_jump_dem_jump_demo" type="collection">
         <element default="javascript:gs.getUserID()" dynamic_default_value="90d1921e5f510100a9ad2572f2b477fe" label="応募者" max_length="32" name="jump_applicant" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element label="Evaluation Management Team" max_length="32" name="evaluation_management_team" reference="sys_user_group" type="reference"/>
+        <element label="Joint Applicant" max_length="32" name="joint_applicant" reference="sys_user" type="reference"/>
         <element choice="1" default="1" label="Stage(ch)" max_length="40" name="jump_stage_ch" read_only="true" type="choice">
             <choice>
                 <element inactive_on_update="false" label="承認待01" language="ja" sequence="2" value="2"/>
